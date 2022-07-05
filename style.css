@@ -1,0 +1,53 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    padding: 30px 20px;
+}
+h1{
+    color: #575757;
+    font-size: 40px;
+}
+.orange_color{
+    color: orange;
+}
+.flexible{
+    display: flex;
+    height: 550px;
+    margin-bottom: 20px;
+    margin-left: 2px;
+}
+.half-width{
+    width: 50%;
+}
+p{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    text-align: justify;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 40px;
+    color: white;
+    font-weight: 700;
+}
+.backImg{
+    background-image: url(shapes/Group_8450-removebg-preview.png);
+    background-repeat: no-repeat;
+}
+.backAboutMe{
+    background-image: url(shapes/7.png);
+    background-repeat: no-repeat;
+    padding: 30px 50px;
+}
+.imageH{
+    margin-bottom: 200px;
+    width: 80%;
+    height: 103.5%;
+}
+.centerAlign h1, p{
+    text-align: center;
+}
+
+
+
